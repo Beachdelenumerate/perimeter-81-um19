@@ -1,4 +1,4 @@
-
+rare Perimeter 81 Client | kill-switch + no-logs-policy is the best Perimeter 81 client, featuring kill-switch and no-logs-policy. Secure, fast, and optimized for privacy.
 
 
 
